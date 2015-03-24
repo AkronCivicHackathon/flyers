@@ -4,6 +4,8 @@ A repo for any flyers created for Akron Civic Hackathon
 Flyers:
 
 2015akroncivichackathon.sla - 2015 Akron Civic Hackathon flyer made on Scribus 1.4.5 running on Win7 64 bit
+2015akroncivichackathon.pdf - pdf copy of the scribus file
+2015akroncivichackathon.png - png copy of the scribus file
 
 Images:
 
